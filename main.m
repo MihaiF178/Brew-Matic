@@ -2,7 +2,7 @@
 % Script principal pentru analiza și vizualizarea spumei în timpul fermentației alcoolice a berii
 
 % Directorul în care se află imaginile
-imageDir = 'C:\Users\paul\OneDrive\Desktop\imagini_procesate'; % Înlocuiește cu calea reală
+imageDir = 'C:\Users\mihai\Desktop\Test'; % Înlocuiește cu calea reală
 
 % Verifică dacă există imagini în director
 imageFiles = dir(fullfile(imageDir, '*.png'));
